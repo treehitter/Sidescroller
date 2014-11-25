@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MyData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <sec>31</sec>
+  <minute>0</minute>
+  <totalpick>8</totalpick>
+  <finalpick>1170</finalpick>
+</MyData>

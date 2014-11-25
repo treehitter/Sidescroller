@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font\SpriteFont1.spritefont</Source>
+      <Name>Font\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\Font\SpriteFont1.xnb</Output>
+      <Time>2013-07-31T22:02:15.1468768-07:00</Time>
+    </Item>
+    <Item>
+      <Source>music\Music.mp3</Source>
+      <Name>music\Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\music\Music.xnb</Output>
+      <Extra>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\music\Music.wma</Extra>
+      <Time>2013-07-27T08:39:07.5725662-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Character[1].tga</Source>
+      <Name>Character[1]</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\Character[1].xnb</Output>
+      <Time>2013-07-27T08:39:07.5545652-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthBar.png</Source>
+      <Name>HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\HealthBar.xnb</Output>
+      <Time>2013-08-04T17:01:26.5732333-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuEntries.png</Source>
+      <Name>MenuEntries</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\MenuEntries.xnb</Output>
+      <Time>2013-07-31T11:43:09.1372466-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2010-07-13T16:59:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mainmenubackg.png</Source>
+      <Name>mainmenubackg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\mainmenubackg.xnb</Output>
+      <Time>2013-08-04T11:55:36.7456832-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\in.tga</Source>
+      <Name>Tiles\in</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\Tiles\in.xnb</Output>
+      <Time>2013-07-27T08:39:07.5595655-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block[1].png</Source>
+      <Name>Tiles\block[1]</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\Tiles\block[1].xnb</Output>
+      <Time>2013-07-27T08:39:07.5615656-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block.png</Source>
+      <Name>Tiles\block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\Tiles\block.xnb</Output>
+      <Time>2013-07-31T18:17:48.7836449-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\blank.png</Source>
+      <Name>Tiles\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\Tiles\blank.xnb</Output>
+      <Time>2013-07-31T14:28:09.0414887-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\spike.png</Source>
+      <Name>Tiles\spike</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\Tiles\spike.xnb</Output>
+      <Time>2013-07-31T19:57:54.4151474-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\animblock.png</Source>
+      <Name>Tiles\animblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\Tiles\animblock.xnb</Output>
+      <Time>2013-08-02T18:47:16.5273487-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\level1tile.png</Source>
+      <Name>Tiles\level1tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\Tiles\level1tile.xnb</Output>
+      <Time>2013-08-26T14:08:24.7472282-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\level1basic.png</Source>
+      <Name>Tiles\level1basic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\Tiles\level1basic.xnb</Output>
+      <Time>2013-08-30T13:19:54.2309455-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\level1slowtile.png</Source>
+      <Name>Tiles\level1slowtile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\Tiles\level1slowtile.xnb</Output>
+      <Time>2013-08-30T13:20:01.2363462-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{DB1D55CA-8C93-4FBF-86DC-B19A8459DFED}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScrollerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-07-25T13:33:30.7842495-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
